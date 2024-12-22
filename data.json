@@ -1,0 +1,95 @@
+[
+    {
+        "userId": "user123",
+        "deathCount": 5,
+        "playCount": 10,
+        "eggsCollected": 20,
+        "sessionDuration": 120,
+        "damageTaken": 50,
+        "openedInventory": 3,
+        "inventory": {
+            "collectables": {
+                "eggs": {
+                    "brown": 2,
+                    "white": 3,
+                    "golden": 1,
+                    "saphire": 0
+                },
+                "posters": {
+                    "chickenRecipe": 1,
+                    "chickenMeme": 1
+                },
+                "keys": {
+                    "iron": 2,
+                    "golden": 0
+                }
+            },
+            "equippable": {
+                "valve": true,
+                "hats": "wizard"
+            }
+        }
+    },
+    {
+        "userId": "user456",
+        "deathCount": 3,
+        "playCount": 15,
+        "eggsCollected": 30,
+        "sessionDuration": 90,
+        "damageTaken": 20,
+        "openedInventory": 2,
+        "inventory": {
+            "collectables": {
+                "eggs": {
+                    "brown": 4,
+                    "white": 5,
+                    "golden": 2,
+                    "saphire": 1
+                },
+                "posters": {
+                    "chickenRecipe": 0,
+                    "chickenMeme": 2
+                },
+                "keys": {
+                    "iron": 1,
+                    "golden": 1
+                }
+            },
+            "equippable": {
+                "valve": false,
+                "hats": "cowboy"
+            }
+        }
+    },
+    {
+        "userId": "user789",
+        "deathCount": 8,
+        "playCount": 12,
+        "eggsCollected": 25,
+        "sessionDuration": 150,
+        "damageTaken": 70,
+        "openedInventory": 4,
+        "inventory": {
+            "collectables": {
+                "eggs": {
+                    "brown": 3,
+                    "white": 2,
+                    "golden": 3,
+                    "saphire": 1
+                },
+                "posters": {
+                    "chickenRecipe": 2,
+                    "chickenMeme": 0
+                },
+                "keys": {
+                    "iron": 3,
+                    "golden": 2
+                }
+            },
+            "equippable": {
+                "valve": true,
+                "hats": "pirate"
+            }
+        }
+    }
+]
